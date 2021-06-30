@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Shrey Agarwal 👋
+I'm a Pre-final year Electronics student at DTU interested in Software Development and Design. 
 
 <!--
 **shreyagarwal13/shreyagarwal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +19,3 @@ Here are some ideas to get you started:
 
 - 📫 Feel free to contact me at shreyagarwal406@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 

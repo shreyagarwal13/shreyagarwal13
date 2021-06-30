@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyagarwal13&show_icons=true)
 
 
 - 📫 Feel free to contact me at shreyagarwal406@gmail.com 

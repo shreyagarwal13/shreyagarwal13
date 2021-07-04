@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyagarwal13&show_icons=true&hide=prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyagarwal13&layout=compact&hide=jupyter%20notebook)
+<!-- ![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyagarwal13&show_icons=true&hide=prs) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyagarwal13&layout=compact&hide=jupyter%20notebook)
 
 
 

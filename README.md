@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://in.linkedin.com/in/shreyagarwal13/">
-    <img align="left" alt="Shrey's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />
+    <img align="left" alt="Shrey's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>
   <a href="https://github.com/shreyagarwal13">
     <img align="left" alt="Shrey's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />

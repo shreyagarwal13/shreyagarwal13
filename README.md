@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 <!-- <img src="https://gpvc.arturio.dev/shreyagarwal13" alt="profile views">  -->
 
-<!-- ![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyagarwal13&show_icons=true&hide=prs) -->
+<!-- ![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyagarwal13&show_icons=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyagarwal13&layout=compact&hide=jupyter%20notebook)
 
 

@@ -37,6 +37,6 @@ Here are some ideas to get you started:
     <img align="left" alt="GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
   </a>
   <a href="mailto:shreyagarwal406@gmail.com">
-    <img align="left" alt="GMail" width="22px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
+    <img align="left" alt="GMail" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
   </a>  
 </p>
